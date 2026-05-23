@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768266085926,
+  "updatedAt": 1779502099455,
   "period": "Last_30days",
   "repos": [
     {
@@ -8,19 +8,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerseDocs",
-      "stars": 99,
-      "forks": 302,
+      "stars": 98,
+      "forks": 309,
       "current": {
-        "pr_opened": 25,
-        "pr_merged": 14,
-        "issue_created": 20,
-        "currentTotalContribution": 59
+        "pr_opened": 0,
+        "pr_merged": 0,
+        "issue_created": 2,
+        "currentTotalContribution": 2
       },
       "previous": {
-        "pr_merged": 3
+        "pr_merged": 0
       },
       "growth": {
-        "pr_merged": 11
+        "pr_merged": 0
       }
     },
     {
@@ -29,19 +29,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse",
-      "stars": 1126,
-      "forks": 1866,
+      "stars": 1215,
+      "forks": 2026,
       "current": {
-        "pr_opened": 80,
-        "pr_merged": 8,
-        "issue_created": 39,
-        "currentTotalContribution": 127
+        "pr_opened": 17,
+        "pr_merged": 3,
+        "issue_created": 11,
+        "currentTotalContribution": 31
       },
       "previous": {
-        "pr_merged": 5
+        "pr_merged": 8
       },
       "growth": {
-        "pr_merged": 3
+        "pr_merged": -5
       }
     },
     {
@@ -50,19 +50,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/Interactive-Book",
-      "stars": 158,
-      "forks": 232,
+      "stars": 164,
+      "forks": 246,
       "current": {
-        "pr_opened": 5,
-        "pr_merged": 0,
-        "issue_created": 3,
-        "currentTotalContribution": 8
+        "pr_opened": 1,
+        "pr_merged": 1,
+        "issue_created": 1,
+        "currentTotalContribution": 3
       },
       "previous": {
-        "pr_merged": 2
+        "pr_merged": 0
       },
       "growth": {
-        "pr_merged": -2
+        "pr_merged": 1
       }
     },
     {
@@ -92,13 +92,13 @@
       "language": "Dart",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/mobile-app",
-      "stars": 84,
-      "forks": 124,
+      "stars": 92,
+      "forks": 142,
       "current": {
-        "pr_opened": 6,
+        "pr_opened": 4,
         "pr_merged": 3,
         "issue_created": 4,
-        "currentTotalContribution": 13
+        "currentTotalContribution": 11
       },
       "previous": {
         "pr_merged": 0
@@ -114,18 +114,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/Blog",
       "stars": 9,
-      "forks": 68,
+      "forks": 70,
       "current": {
-        "pr_opened": 3,
-        "pr_merged": 1,
-        "issue_created": 3,
-        "currentTotalContribution": 7
+        "pr_opened": 0,
+        "pr_merged": 0,
+        "issue_created": 0,
+        "currentTotalContribution": 0
       },
       "previous": {
-        "pr_merged": 3
+        "pr_merged": 0
       },
       "growth": {
-        "pr_merged": -2
+        "pr_merged": 0
       }
     },
     {
@@ -155,7 +155,7 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/CircuitVerse-Presentation-Embed",
-      "stars": 10,
+      "stars": 11,
       "forks": 5,
       "current": {
         "pr_opened": 0,
@@ -177,7 +177,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/yosys2digitaljs-server",
       "stars": 1,
-      "forks": 1,
+      "forks": 4,
       "current": {
         "pr_opened": 0,
         "pr_merged": 0,
@@ -215,16 +215,16 @@
     {
       "name": "upptime",
       "description": "📈 Uptime monitor and status page for Upptime, powered by @upptime",
-      "language": "JSON",
+      "language": "Markdown",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/upptime",
       "stars": 3,
-      "forks": 2,
+      "forks": 4,
       "current": {
         "pr_opened": 0,
         "pr_merged": 0,
-        "issue_created": 0,
-        "currentTotalContribution": 0
+        "issue_created": 1,
+        "currentTotalContribution": 1
       },
       "previous": {
         "pr_merged": 0
@@ -323,19 +323,19 @@
       "language": "JavaScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/cv-frontend-vue",
-      "stars": 46,
-      "forks": 202,
+      "stars": 57,
+      "forks": 253,
       "current": {
-        "pr_opened": 55,
-        "pr_merged": 10,
-        "issue_created": 42,
-        "currentTotalContribution": 107
+        "pr_opened": 9,
+        "pr_merged": 0,
+        "issue_created": 10,
+        "currentTotalContribution": 19
       },
       "previous": {
-        "pr_merged": 1
+        "pr_merged": 0
       },
       "growth": {
-        "pr_merged": 9
+        "pr_merged": 0
       }
     },
     {
@@ -407,19 +407,19 @@
       "language": "TypeScript",
       "avatar_url": "https://avatars.githubusercontent.com/u/42944450?v=4",
       "html_url": "https://github.com/CircuitVerse/community-dashboard",
-      "stars": 9,
-      "forks": 29,
+      "stars": 12,
+      "forks": 47,
       "current": {
-        "pr_opened": 104,
-        "pr_merged": 80,
-        "issue_created": 99,
-        "currentTotalContribution": 283
+        "pr_opened": 1,
+        "pr_merged": 0,
+        "issue_created": 0,
+        "currentTotalContribution": 1
       },
       "previous": {
         "pr_merged": 0
       },
       "growth": {
-        "pr_merged": 80
+        "pr_merged": 0
       }
     }
   ]
